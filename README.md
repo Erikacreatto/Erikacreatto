@@ -1,4 +1,4 @@
-# Erika Creatto | Tecnologia e Dados
+## Erika Creatto | Tecnologia e Dados
 
 Estudante de **Desenvolvimento de Software Multiplataforma na FATEC**, em transição de carreira para a área de Tecnologia, com foco em **Análise de Dados, Business Intelligence, Machine Learning e Inteligência Artificial**.
 
@@ -27,3 +27,4 @@ Tenho desenvolvido projetos acadêmicos envolvendo análise, tratamento e explor
 ### Em constante aprendizado
 
 Aprofundando conhecimentos em análise de dados, Business Intelligence, Machine Learning, Inteligência Artificial e desenvolvimento de software, por meio de estudos e projetos acadêmicos.
+
